@@ -53,8 +53,8 @@ Cochez les lettres des plaques d'immatriculation que vous croisez. Il n'y a pas 
 
 ## 📥 Installation
 
-1. Téléchargez le fichier [Loto des Plaques 1.0.pdf](lien_vers_le_pdf).
-2. Imprimez les grilles et les tableaux.
+1. Téléchargez le fichier [Loto des Plaques.xlsx]
+2. Imprimez les pages 1 par 1 en rafraichissant à chaque fois (pour générer de nouvelles grillles aléatoires
 3. Préparez des crayons ou des feutres pour cocher les cases.
 
 ---
@@ -91,7 +91,7 @@ N'hésitez pas à proposer des améliorations ou des variantes supplémentaires 
 
 ## 📧 Contact
 
-Pour toute question ou suggestion, contactez-moi à [votre email].
+Pour toute question ou suggestion, utilisez l'espace discussion/problèmes
 
 ---
 Amusez-vous bien sur la route ! 🚗💨
